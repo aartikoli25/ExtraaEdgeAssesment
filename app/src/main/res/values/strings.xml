@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ExtraaEdgeAssignment</string>
+    <string name="wikipedia_link">Wikipedia Link :</string>
+    <string name="cost_per_launch_b">● &#160;Cost Per Launch&#160;:&#160;&#160;</string>
+    <string name="success_rate_percent_b">● &#160;Success Rate Percent&#160;:&#160;&#160;</string>
+    <string name="height_diameter_in_feet_or_inches_b">● &#160;Height &amp; Diameter in Feet/Inches&#160;:&#160;&#160;</string>
+    <string name="active">Active</string>
+    <string name="inactive">Inactive</string>
+    <string name="country">Country : &#160;</string>
+    <string name="engines_count">Engines Count : &#160;</string>
+    <string name="check_connection">Please Check Your Internet Connection</string>
+</resources>
